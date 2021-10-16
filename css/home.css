@@ -1,0 +1,74 @@
+.cover_page{width:100%;margin-top:30px}
+.cover_img{display:inline-block}
+.cover_img img{width:99.3%;height:400px}
+.cover_page_header{display:inline-block;vertical-align:top;color:#052129;font-size:26px;letter-spacing:2px;margin-bottom:6px}
+.table{text-align:center;vertical-align:top;display:inline-block;color:#fff}
+td,th,tr{padding:10px 16px;margin:0;font-size:16px;font-weight:600;border:.1px solid #fff;text-align:center}
+.th_placeholder{border:none;color:#fff}
+.table td,.table th{border-top:none}
+.td_text{text-align:left!important;color:#000;font-size:16px;font-weight:600;padding:10px;padding-right:30px;background-color:#f5fcfe}
+.th2,td{background:#6d7780}
+.td1,.th1{background-color:#7fcdcd}
+.slider-menu-header{text-align:center;margin:auto;margin-top:4.5rem}
+.slider_menu{text-align:center;margin:auto}
+.slider_menu_item{display:inline-block;padding:12px;color:#483d8b}
+.slider_menu_item:hover{cursor:pointer;color:#0b1425;text-decoration:underline!important}
+.hide{display:none!important}
+.show{display:block}
+.carousel-container-hadri{margin:3% 5%}
+.carousel-container-hadri img{width:100%;border-radius:10px}
+.star-icon{width:20px!important;height:20px!important}
+.star-container{margin-left:20px}
+.slider-rating{display:flex;flex-wrap:wrap;padding:16px}
+.glide__slide__hadri{box-shadow:2px 2px 4px 0 #b0b4b8;min-width:220px; border-radius:.975rem}
+.glide__slide__hadri img{height: 200px;}
+.glide__slide__hadri:hover{box-shadow:2px 2px 10px 0 rgba(46,61,73,.2)}
+.glide__slide__hadri h5{margin:6px}
+.glide__slide__hadri h6{margin:6px}
+@media (max-width:992px){.carousel-inner .carousel-item>div{display:none}
+.carousel-inner .carousel-item>div:first-child{display:block}}
+.slider-2-container img{width:98%;margin:auto;padding-top:5px}
+.slider-2-item{padding:10px;margin-left:.7%}
+.card_icon{display:inline;padding-bottom:1rem}
+.benefits{text-align:center;padding-top:30px}
+.benefits_header{font-size:30px;font-weight:900}
+.benefits_para{font-size:18px;padding-bottom:2rem}
+.benefits_menu{display:flex;flex-wrap:wrap;padding:0}
+.benefit_card{height:20rem;list-style:none;
+               width:24.7%;min-width:300px;
+               border:2px solid #e2d5d5;border-radius:8px;
+               box-shadow:8px 10px 20px 0 rgba(182,182,190,.15);text-align:center;
+               padding:5px;padding-top:30px;padding-bottom:40px;margin-top:6px;margin-right:2px;margin-right:2px}
+.card_icon img{width:30px}
+.border_top1{border-top:#02b3e4 3px solid}
+.border_top2{border-top:#ffae0c 3px solid}
+.border_top3{border-top:#15c26b 3px solid}
+.border_top4{border-top:#a951ed 3px solid}
+.card_text{font-size:14px;font-weight:580;line-height:1.8rem;width:100%}
+.explore_resource{background-color:#2e3d49;color:#f7f3ec;width:94%;
+                  text-align:center;margin-top:50px;margin-left:auto;margin-right:auto;padding:40px 0}
+.btn_container{margin-top:20px;padding:20px;display:flex;flex-direction:column;align-items:center}
+.btn_resource{background-color:#5b5ea6;border:.5px solid wheat;border-radius:5px;padding:14px;width:11.75rem}
+.btn_resource:hover{background-color:#016629}
+.btn_resource a{font-weight:500;color:#fff;text-decoration:none}
+.footer_container{background-color:#c2eeee;padding-top:20px;margin-top:5rem}
+.footer_header{text-align:center;font-size:2rem;font-weight:700;padding-top:40px}
+.footer_placeholder{padding:0 10%}
+.footer_features{display:flex;flex-wrap:wrap;justify-content:center}
+.features_container{text-align:center}
+.feature_item{width:32.33%;font-size:22px;font-weight:700}
+.feature_icon{font-size:30px;padding-top:0;margin:0;padding-bottom:20px}
+.feature_number{padding-bottom:14px}
+.feature_text{padding:0 12%;padding-bottom:30px}
+.students_card{display:inline-block}
+.student_card{margin:6px 20px;margin-top:78px;font-style:italic!important;border:.3px solid #ecdede;border-radius:10px;border-top:none;text-align:center;width:29.20339%;min-width:300px;display:inline-block;background-color:#fff}
+.card_1{border-top:3px solid #02ccba;border-radius:10px}
+.card_2{border-top:solid 3px #a951ed;border-radius:10px}
+.card_3{border-top:solid 3px #02b3e4;border-radius:10px}
+.student_img img{position:relative;bottom:40px;width:20%}
+.student_story{line-height:1.9rem;padding-right:5%;padding-left:5%;font-size:16px;font-weight:700}
+.card_bottom1{background-color:#02ccba;color:#f5f5f5;padding:8px;border-radius:6px}
+.card_bottom2{background-color:#a951ed;color:#f5f5f5;padding:8px;border-radius:6px}
+.card_bottom3{background-color:#02b3e4;color:#f5f5f5;border-radius:6px;padding:8px}
+.footer_btn{background-color:#016682;padding:14px;border:.125rem solid transparent;border-radius:6px;box-shadow:8px 10px 20px 0 rgba(46,61,73,.15);margin-bottom:100px}
+.footer_btn:hover{box-shadow:none;background-color:#025870}.footer_btn a{color:#fff}
